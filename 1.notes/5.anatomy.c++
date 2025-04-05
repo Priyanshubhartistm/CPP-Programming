@@ -91,11 +91,11 @@ usi trh hitesh ek function ho skta h, jiska functionality hoga ki api se kch val
 
 jo standard rule define hua o y hua ki hr method k ek nam hoga, kosis ki sbka ek meaningfull name ho, 
 
-jaise main, (itesh, y priya)y sb n ho, 
+jaise main, (hitesh, y priya)y sb n ho, 
 
 agar koye c method ka kam h, ki api leke ana to (getapi) , (getapifromgithub) 
 
-i) uske bd () or ek {} 
+i) uske bd ()paranthasis or ek {} curely baracis
 
 
 4. cout  = for output
@@ -108,6 +108,40 @@ i) uske bd () or ek {}
 
 same operator k km hota h, yaha se value lo or yaha pass on kar do.
 
+SUMARRY:-  
+1.#include
+preprocessor directive          = jo v line # hASh se start preprocessor hoti h, but preprocessor alg alg type ke hote h. 
 
+hamra wala inclusive h, jo <iostream 
+file ko incluse krta h, 
+
+2.using namespace
+ham yah pr using namespace standard v likh skte h, 
+
+alg alg tarike se namespace ko include kiya ja skta h, on the go kiya ja skta h, 
+
+file ke top pe v kiya ja skta h, y pura namespace v laya ja skta h, 
+
+
+3.main
+fir hamne dekha ki har ek method , yani c++ file ke andr main method hona jaruri h, 
+
+iska return type(int) v define hona jaruri h,ki puri language hi statically type h, to data type to define hona jaruri h, 
+
+to data type to pata hona chahya.
+
+
+4. cout
+ko v hamne dekha kha se aa raha kya inka role h,
+
+
+5. <<
+in operator ko v dekha hamne
+
+6.string
+"hello" ki collection of letters hi to h, 
+
+7. return 0;
+isko return 5 v kiya ja skta h, or iska kya importance h, y v hamne dekha.
 
 */
